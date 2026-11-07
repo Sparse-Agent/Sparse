@@ -1,5 +1,5 @@
 name: Bug report
-description: Something in CodeRouter isn't working
+description: Something in Sparse isn't working
 labels: [bug]
 body:
   - type: dropdown
@@ -17,7 +17,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: Settings, then About in the app, or `coderouter --version`
+      description: Settings, then About in the app, or `sparse --version`
     validations:
       required: true
   - type: input
