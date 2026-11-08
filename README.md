@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src=".github/assets/demo-app.gif" alt="Sparse desktop app building a snake game from one prompt" width="900" />
+  <img src=".github/assets/demo-app.gif" alt="Sparse desktop app building and testing a tip calculator from one prompt" width="900" />
   <br />
   <sub>One prompt in the desktop app: planned, built, verified, and previewed. Real run, fast-forwarded.</sub>
 </p>
@@ -92,12 +92,6 @@ First launch walks you through adding your OpenRouter key. `sparse app` launches
 ```
 
 ## Quick start
-
-<p align="center">
-  <img src=".github/assets/demo-cli.gif" alt="Sparse CLI routing prompts and applying a change" width="900" />
-  <br />
-  <sub>A trivial edit routes to a cheap model, a redesign to a frontier one; <code>run --apply</code> lands the change.</sub>
-</p>
 
 ```bash
 sparse                            # interactive REPL
